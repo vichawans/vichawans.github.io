@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Vichawan Sakulsupich
-    - name: Alternate Name
-      value: Print Sakulsupich
+#     - name: Alternate Name
+#       value: Print Sakulsupich
     - name: Languages
       value: English, Thai
 
