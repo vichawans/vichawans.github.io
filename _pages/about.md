@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>
 
 profile:
   align: right
-  image: ./assets/img/print_pic.jpg
+  image: print_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Centre for Atmospheric Science</p>
