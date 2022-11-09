@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Vichawan Sakulsupich
-#     - name: Alternate Name
-#       value: Print Sakulsupich
+    - name: Alternate Name
+      value: Print Sakulsupich
     - name: Languages
       value: English, Thai
 
@@ -25,8 +25,8 @@
       institution: Department of Physics, Chulalongkorn University - Bangkok, Thailand
       year: 2014
       description:
-        - [Thesis] Theoretical Studies of Methyl-ammonium Lead Iodide Perovskite under High Pressure
-        - [Supervisor] Assoc Prof Dr Thiti Bovornratanaraks
+        - (Thesis) Theoretical Studies of Methylammonium Lead Iodide Perovskite under High Pressure
+        - (Supervisor) Assoc Prof Dr Thiti Bovornratanaraks
 
 - title: Experience
   type: time_table
