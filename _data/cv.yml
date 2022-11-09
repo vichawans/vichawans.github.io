@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Vichawan Sakulsupich
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD student
       institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      year: 2020-present
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +19,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSc in Physics
+      institution: Department of Physics, Chulalongkorn University - Bangkok, Thailand
+      year: 2014-2018
       description:
-        - Description 1.
-        - Description 2.
+        - [Thesis] Theoretical Studies of Methyl-ammonium Lead Iodide Perovskite under High Pressure
+        - [Supervisor] Assoc Prof Dr Thiti Bovornratanaraks
 
 - title: Experience
   type: time_table
