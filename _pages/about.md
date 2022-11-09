@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>
 
 profile:
   align: right
@@ -10,7 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Centre for Atmospheric Science</p>
-    <p> 14 Union Rd</p>
+    <p>Department of Chemistry</p>
+    <p>University of Cambridge</p>
+    <p>14 Union Rd</p>
     <p>Cambridge CB2 1EZ, UK</p>
 
 news: true  # includes a list of news items
