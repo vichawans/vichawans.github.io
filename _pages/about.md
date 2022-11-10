@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I’m Vichawan but I also go by Print, currently working on a PhD project at the [Centre for Atmospheric Science](https://www.ch.cam.ac.uk/group/atm/index) on sulfate aerosol formation and its role in the climate. I am an aligned studen for the [Artificial Intelligence for Environmental Risks (AI4ER)](Artificial Intelligence for Environmental Risks (AI4ER))
+Hi, I’m Vichawan but I also go by Print, currently working on a PhD project at the [Centre for Atmospheric Science](https://www.ch.cam.ac.uk/group/atm/index) on sulfate aerosol formation and its role in the climate. I am an aligned studen for the [Artificial Intelligence for Environmental Risks (AI4ER)](https://ai4er-cdt.esc.cam.ac.uk/)
 
 * I’m interested in 
   * working with climate model data and understanding the climate and aerosol interactions. I have been working with the UKESM1 model outputs but plan to expand to other models in the future. 
