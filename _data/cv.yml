@@ -63,14 +63,13 @@
   contents:
     - title: Atmospheric Chemistry
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Sulfur dioxide oxidation, cloud, and climate interactions
+    - title: Earth system modeling
       items:
-        - Description 1.
-        - Description 2.
+        - Gridded data analysis
+        - Data visualization
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Birdwatching, Coffee brewing, Gardening.
