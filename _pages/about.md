@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ch.cam.ac.uk/group/atm/index'>Centre for Atmosphe
 
 profile:
   align: right
-  image: print_pic.jpg
+  image: print_pic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Centre for Atmospheric Science</p>
