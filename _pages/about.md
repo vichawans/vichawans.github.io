@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>
+subtitle: <a href='https://www.ch.cam.ac.uk/group/atm/index'>Centre for Atmospheric Science, University of Cambridge</a>
 
 profile:
   align: right
