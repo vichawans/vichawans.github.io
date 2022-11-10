@@ -6,10 +6,10 @@ description: Collections of talks and conference I had attended
 nav: true
 nav_order: 2
 display_categories: [work, fun]
-horizontal: true
+horizontal: talse
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/talks.md -->
 <div class="project">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
