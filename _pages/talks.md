@@ -5,7 +5,7 @@ permalink: /talks/
 description: Collections of talks and conference I had attended
 nav: true
 nav_order: 2
-display_categories: [work, fun, Talk, Conference]
+display_categories: [Talk, Conference]
 horizontal: talse
 ---
 
