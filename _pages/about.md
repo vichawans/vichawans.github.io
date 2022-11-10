@@ -23,12 +23,12 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I’m Vichawan but I also go by Print, currently working on a PhD project at the [Centre for Atmospheric Science](https://www.ch.cam.ac.uk/group/atm/index) on sulfate aerosol formation and its role in the climate. I am an aligned studen for the [Artificial Intelligence for Environmental Risks (AI4ER)](Artificial Intelligence for Environmental Risks (AI4ER))
 
-I’m interested in 
-* working with climate model data and understanding the climate and aerosol interactions. I have been working with the UKESM1 model outputs but plan to expand to other models in the future. 
-* air quality and dealing with missing data in observations.
+* I’m interested in 
+  * working with climate model data and understanding the climate and aerosol interactions. I have been working with the UKESM1 model outputs but plan to expand to other models in the future. 
+  * air quality and dealing with missing data in observations.
 
 
-I also have some experience in working with the Weather Research and Forecasting (WRF) model, specifically in compiling the source code and data visualisation. The main programming language I use is python for working with multi-dimensional array datasets. 
+* I also have some experience in working with the Weather Research and Forecasting (WRF) model, specifically in compiling the source code and data visualisation. The main programming language I use is python for working with multi-dimensional array datasets. 
 
 - 🌱 I’m currently learning more techniques to visualise and analyse climate model data. Machine learning for climate data analysis is another area I am keen on. 
 
