@@ -61,15 +61,21 @@
 - title: Collaboration, Communication and Public Outreach
   type: time_table
   contents:
-    - year: 2021
-      items: 
-        - <i>Student chair</i> for the departmental peer-to-peer presentation
-    - year: 2013 – NOW
-      items: 
-        - Development and Promotion of Science and Technology Talents Project Scholarship (DPST), Government of Thailand 
-    - year: 2017 – 2019
-      items: 
-        - 90th Anniversary of Chulalongkorn University Research Grant
+    - title: Student chair
+      institution: Department of Chemistry, University of Cambridge 
+      year: 2021
+      description:
+        - title: Departmental peer-to-peer presentation
+        
+    - title:  Executive Secretary for students
+      institution: St Edmund\'s College, University of Cambridge 
+      year: 2021
+      description:
+        - title: Responsibilities
+          contents:
+            - Representing the students at college level
+            - Publishing students newsletters
+            - Facilitating academic and social events
 
 - title: Academic Interests
   type: nested_list
