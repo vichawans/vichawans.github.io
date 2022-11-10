@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Talks and conferences
+permalink: /talks/
+description: Collections of talks and conference I had attended
 nav: true
 nav_order: 2
 display_categories: [work, fun]
@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="Talks">
+<div class="project">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
