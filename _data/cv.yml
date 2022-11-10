@@ -43,6 +43,7 @@
           contents:
             - Maintain air quality database
             - Conduct own research on urban air quality over Bangkok metropolitan area
+            - Lead a research on “Handling Missing Observation Data Using Principal Component Analysis”
         - (Supervisor) Dr Ronald Macatangay
         
 - title: Awards
@@ -61,7 +62,7 @@
 - title: Collaboration, Communication and Public Outreach
   type: time_table
   contents:
-    - title: Student chair
+    - title: Student Chair
       institution: Department of Chemistry, University of Cambridge 
       year: 2021
       description:
@@ -76,6 +77,24 @@
             - Representing the students at college level
             - Publishing students newsletters
             - Facilitating academic and social events
+            
+    - title: Public Outreach Assistant
+      institution: National Astronomical Research Institute of Thailand (NARIT) 
+      year: 2018-2019
+      description:
+        - title: Responsibilities
+          contents:
+            - Writing press releases for the Atmospheric Research Unit 
+            - Teaching as teaching assistant in Aerosol modelling workshop
+            - Facilitating the NASA Land-Cover and Land-Use Change (LCLUC) conference
+    
+    - title: Teaching Assistant (TA)
+      institution: Chulalongkorn University, Bangkok Thailand 
+      year: 2016-2017
+      description:
+        - title: Responsibilities
+          contents:
+            - Demonstrating undergraduate physics experiments
 
 - title: Academic Interests
   type: nested_list
@@ -91,4 +110,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Birdwatching, Coffee brewing, Gardening, Knitting.
+    - <u>Hobbies:</u> Birdwatching, Coffee brewing, Gardening, Knitting, Board gaming.
