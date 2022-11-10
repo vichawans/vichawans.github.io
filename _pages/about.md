@@ -9,7 +9,8 @@ profile:
   image: print_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Centre for Atmospheric Science</p>
+    <p>Centre for </p>
+    <p>Atmospheric Science</p>
     <p>Department of Chemistry</p>
     <p>University of Cambridge</p>
     <p>14 Union Rd</p>
