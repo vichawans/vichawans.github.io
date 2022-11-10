@@ -7,6 +7,10 @@ years: [2020, 2018, 2016]
 nav: true
 nav_order: 1
 ---
+
+An up-to-date list is available on [Google Scholar](https://scholar.google.com/citations?user=NNHRfwwAAAAJ).
+
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
