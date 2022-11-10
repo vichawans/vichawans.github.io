@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Talks and conferences
+title: Talk and conference
 permalink: /talks/
 description: Collections of talks and conference I had attended
 nav: true
 nav_order: 2
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
