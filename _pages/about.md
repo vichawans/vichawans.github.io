@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.ch.cam.ac.uk/group/atm/index'>Centre for Atmospheric Science, University of Cambridge</a>
 
