@@ -44,21 +44,24 @@
             - Maintain air quality database
             - Conduct own research on 
         - (Supervisor) Dr Ronald Macatangay
+        
 - title: Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020 - NOW
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Joint scholarship from Cambridge Commonwealth, European & International Trust and Cambridge Thai Foundation
+    - year: 2013 – NOW
       items: 
-        - Max Planck Medal
+        - Development and Promotion of Science and Technology Talents Project Scholarship (DPST), Government of Thailand 
+    - year: 2017 – 2019
+      items: 
+        - 90th Anniversary of Chulalongkorn University Research Grant
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Atmospheric Chemistry
       items: 
         - Description 1.
         - Description 2.
