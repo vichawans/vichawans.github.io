@@ -8,7 +8,7 @@ middle_name:
 last_name: Sakulsupich
 email: vs480@cam.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Atmospheric chemistry. Climate models and data visualization.
+  Atmospheric chemistry. Aerosols. Climate models.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -112,7 +112,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Blog # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Notes on interesting stuff
+blog_description: Notes on ideas and interesting research
 permalink: /blog/:year/:title/
 
 # Pagination
