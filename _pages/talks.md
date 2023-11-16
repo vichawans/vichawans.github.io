@@ -2,7 +2,7 @@
 layout: page
 title: Talk and conference
 permalink: /talks/
-description: Collections of talks and conferences I had attended
+description: Collection of talks and conferences I had the pleasure to present
 nav: true
 nav_order: 2
 display_categories: [Talk, Conference]
