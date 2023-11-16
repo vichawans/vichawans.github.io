@@ -5,8 +5,6 @@
       value: Vichawan Sakulsupich
     - name: Alternate Name
       value: Print Sakulsupich
-    - name: Languages
-      value: English, Thai
 
 - title: Academic Interests
   type: nested_list
