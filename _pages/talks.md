@@ -6,7 +6,7 @@ description: Collections of talks and conferences I had attended
 nav: true
 nav_order: 2
 display_categories: [Talk, Conference]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/talks.md -->
