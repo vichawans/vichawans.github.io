@@ -41,6 +41,7 @@
       year: 2023 - NOW
       description:
         - title: About
+          contents:
           - Fresh Eyes on CMIP is a new working group integrating the voices of early career researchers in CMIP. 
         - title: Responsibility
           contents:
