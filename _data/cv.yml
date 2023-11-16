@@ -9,13 +9,12 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Atmospheric Chemistry
+    - title: Atmospheric chemistry and climate interactions
       items: 
-        - Sulfur dioxide oxidation, cloud, and climate interactions
-    - title: Earth system modelling
+        - Sulfur dioxide oxidation, aerosol, cloud, and climate interactions
+    - title: Earth system modelling and analysis
       items:
-        - Gridded data analysis
-        - Data visualization
+        - AerChemMIP and CMIP6 model intercomparison
 
 - title: Education
   type: time_table
@@ -74,10 +73,10 @@
 - title: Awards
   type: time_table
   contents:
-    - year: 2023 - NOW
+    - year: 2023 - 2024
       items: 
         - Funds for Women Graduate's Foundation Grant
-    - year: 2020 - NOW
+    - year: 2020 - 2024
       items: 
         - Joint scholarship from Cambridge Commonwealth, European & International Trust and Cambridge Thai Foundation
     - year: 2013 – NOW
