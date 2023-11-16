@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-11-16 13:51:00-0000
+date: 2023-06-19 13:51:00-0000
 inline: true
 ---
 
-Added IGAC ECR virtual conference poster
+Awarded the Foundation Grant by the Funds for Women Graduate educational charity
