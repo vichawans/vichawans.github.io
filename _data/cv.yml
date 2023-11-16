@@ -36,6 +36,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Co-lead for Fresh Eyes on CMIP Data Access Subgroup
+      institution: WCRP CMIP7 
+      year: 2023 - NOW
+      description:
+        - title: About
+          - Fresh Eyes on CMIP is a new working group integrating the voices of early career researchers in CMIP. 
+        - title: Responsibility
+          contents:
+            - Promote CMIP data access for a diverse range of users
+            - Lead discussion about the difficulty in accessing CMIP data for early career researchers
+            - Liaise between the CMIP7 Data Access Task Team and Fresh Eyes on CMIP team
+            - Collaborate with other Fresh Eyes on CMIP working groups such as the Data Analysis team
+
     - title: Research Assistant
       institution: National Astronomical Research Institute of Thailand (NARIT) 
       year: 2017 - 2019
@@ -50,6 +63,9 @@
 - title: Awards
   type: time_table
   contents:
+    - year: 2023 - NOW
+      items: 
+        - Funds for Women Graduate's Foundation Grant
     - year: 2020 - NOW
       items: 
         - Joint scholarship from Cambridge Commonwealth, European & International Trust and Cambridge Thai Foundation
