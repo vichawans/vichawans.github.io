@@ -48,11 +48,12 @@
   type: time_table
   contents:
     - title: Co-lead for Fresh Eyes on CMIP Data Access Subgroup
-      institution: WCRP CMIP7 
+      institution: Couple Model Intercomparison Project (CMIP, World Climate Research Program (WCRP) 
       year: 2023 - NOW
       description:
         - title: About
           contents:
+          - CMIP is a project of the WCRP providing climate projections to understand past, present and future climate change.
           - Fresh Eyes on CMIP is a new working group integrating the voices of early career researchers in CMIP. 
         - title: Responsibilities
           contents:
