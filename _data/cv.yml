@@ -8,6 +8,17 @@
     - name: Languages
       value: English, Thai
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Atmospheric Chemistry
+      items: 
+        - Sulfur dioxide oxidation, cloud, and climate interactions
+    - title: Earth system modelling
+      items:
+        - Gridded data analysis
+        - Data visualization
+
 - title: Education
   type: time_table
   contents:
@@ -134,16 +145,6 @@
           contents:
             - Demonstrating undergraduate physics experiments
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Atmospheric Chemistry
-      items: 
-        - Sulfur dioxide oxidation, cloud, and climate interactions
-    - title: Earth system modelling
-      items:
-        - Gridded data analysis
-        - Data visualization
 
 - title: Other Interests
   type: list
