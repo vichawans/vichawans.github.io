@@ -2,11 +2,11 @@
 layout: page
 title: Talk and conference
 permalink: /talks/
-description: Collections of talks and conference I had attended
+description: Collections of talks and conferences I had attended
 nav: true
 nav_order: 2
 display_categories: [Talk, Conference]
-horizontal: talse
+horizontal: false
 ---
 
 <!-- pages/talks.md -->
