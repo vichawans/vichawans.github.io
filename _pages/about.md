@@ -16,24 +16,18 @@ profile:
     <p>14 Union Rd</p>
     <p>Cambridge CB2 1EZ, UK</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I’m Vichawan but I also go by Print, currently working on a PhD project at the [Centre for Atmospheric Science](https://www.ch.cam.ac.uk/group/atm/index) on sulfate aerosol formation and its role in the climate. I am an aligned studen for the [Artificial Intelligence for Environmental Risks (AI4ER)](https://ai4er-cdt.esc.cam.ac.uk/)
+Hi, I’m Vichawan, but I also go by Print. I am currently a PDRA at the [Centre for Atmospheric Science](https://www.ch.cam.ac.uk/group/atm/index), working on the impacts of wildfire aerosols on stratospheric ozone and on halocarbons' impacts on climate. Aerosol and clouds are my type of jam! 
 
 * I’m interested in 
-  * working with climate model data and understanding the climate and aerosol interactions. I have been working with the UKESM1 model outputs but plan to expand to other models in the future. 
-  * air quality and dealing with missing data in observations.
-
-
-* I also have some experience in working with the Weather Research and Forecasting (WRF) model, specifically in compiling the source code and data visualisation. The main programming language I use is python for working with multi-dimensional array datasets. 
-
-- 🌱 I’m currently learning more techniques to visualise and analyse climate model data. Machine learning for climate data analysis is another area I am keen on. 
-
-- 💞️ I’m looking to collaborate on research on sulfate aerosols and aerosol-cloud interaction. 
-
+  * Using climate models to understand the aerosol and climate interactions, especially in the context of atmospheric chemistry. I have been working with the UKESM1 model outputs, but I plan to expand to other models in the future.
+  * Utilising existing climate model simulation data. Model simulations are costly, and not everyone has access to such models or computing resources. I think sharing the data and enabling more people to use it benefits everyone.
+  * The human side of doing research. How to collaborate and network without leading to burnout and to maximise the benefits. Researchers are human, and everyone is different. 
+ 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
