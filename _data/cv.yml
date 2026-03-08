@@ -12,6 +12,8 @@
     - title: Atmospheric chemistry and climate interactions
       items: 
         - Sulfur dioxide oxidation, aerosol, cloud, and climate interactions
+        - Wildfire aerosols
+        - Halocarbons
     - title: Earth system modelling and analysis
       items:
         - AerChemMIP and CMIP6 model intercomparison
@@ -19,9 +21,16 @@
 - title: Education
   type: time_table
   contents:
+    - title: PDRA
+      institution: Centre for Atmospheric Science, University of Cambridge, Cambridge, UK
+      year: 2025 - Now
+      description:
+        - Using the UKESM1 model to investigate the impact of halocarbon emissions on climate.
+        - Develop new heterogeneous reaction capabilities for UKESM1 
+
     - title: PhD student
       institution: Centre for Atmospheric Science, University of Cambridge, Cambridge, UK
-      year: 2020 - NOW
+      year: 2020 - 2025
       description:
         - Artificial Intelligence for Environmental Risks (AI4ER) aligned student
         - (Project) Quantifying the role of sulfur emissions in Earth system models
@@ -46,18 +55,18 @@
   contents:
     - title: Co-lead for Fresh Eyes on CMIP Data Access Subgroup
       institution: Couple Model Intercomparison Project (CMIP), World Climate Research Program (WCRP) 
-      year: 2023 - NOW
+      year: 2023 - 2025
       description:
         - title: About
           contents:
           - CMIP is a project of the WCRP providing climate projections to understand past, present and future climate change.
-          - Fresh Eyes on CMIP is a new working group integrating the voices of early career researchers in CMIP. 
+          - Fresh Eyes on CMIP is a new working group integrating the voices of early-career researchers in CMIP. 
         - title: Responsibilities
           contents:
             - Promote CMIP data access for a diverse range of users
-            - Lead discussion about the difficulty in accessing CMIP data for early career researchers
-            - Liaise between the CMIP7 Data Access Task Team and Fresh Eyes on CMIP team
-            - Collaborate with other Fresh Eyes on CMIP working groups such as the Data Analysis team
+            - Lead discussion about the difficulty in accessing CMIP data for early-career researchers
+            - Liaise between the CMIP7 Data Access Task Team and the Fresh Eyes on CMIP team
+            - Collaborate with other Fresh Eyes on CMIP working groups, such as the Data Analysis team
 
     - title: Research Assistant
       institution: National Astronomical Research Institute of Thailand (NARIT) 
@@ -66,7 +75,7 @@
         - title: Responsibilities
           contents:
             - Maintain air quality database
-            - Conduct own research on urban air quality over Bangkok metropolitan area
+            - Conduct own research on urban air quality over the Bangkok metropolitan area
             - Lead a research on “Handling Missing Observation Data Using Principal Component Analysis”
         - (Supervisor) Dr Ronald Macatangay
         
@@ -121,8 +130,8 @@
       description:
         - title: Responsibilities
           contents:
-            - Representing the students at college level
-            - Publishing students newsletters
+            - Representing the students at the college level
+            - Publishing students\' newsletters
             - Facilitating academic and social events
             
     - title: Public Outreach Assistant
@@ -132,11 +141,11 @@
         - title: Responsibilities
           contents:
             - Writing press releases for the Atmospheric Research Unit 
-            - Teaching as teaching assistant in Aerosol modelling workshop
+            - Teaching as a teaching assistant in the aerosol modelling workshop
             - Facilitating the NASA Land-Cover and Land-Use Change (LCLUC) conference
     
     - title: Teaching Assistant (TA)
-      institution: Chulalongkorn University, Bangkok Thailand 
+      institution: Chulalongkorn University, Bangkok, Thailand 
       year: 2016-2017
       description:
         - title: Responsibilities
@@ -147,4 +156,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Birdwatching, Coffee brewing, Gardening, Knitting, Board gaming.
+    - <u>Programming:</u> Reproducible research 
