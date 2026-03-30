@@ -21,12 +21,6 @@
 - title: Education
   type: time_table
   contents:
-    - title: PDRA
-      institution: Centre for Atmospheric Science, University of Cambridge, Cambridge, UK
-      year: 2025 - Now
-      description:
-        - Using the UKESM1 model to investigate the impact of halocarbon emissions on climate.
-        - Develop new heterogeneous reaction capabilities for UKESM1 
 
     - title: PhD student
       institution: Centre for Atmospheric Science, University of Cambridge, Cambridge, UK
@@ -53,6 +47,13 @@
 - title: Experience
   type: time_table
   contents:
+   - title: PDRA
+      institution: Centre for Atmospheric Science, University of Cambridge, Cambridge, UK
+      year: 2025 - Now
+      description:
+        - Using the UKESM1 model to investigate the impact of halocarbon emissions on climate.
+        - Develop new heterogeneous reaction capabilities for UKESM1 
+        
     - title: Co-lead for Fresh Eyes on CMIP Data Access Subgroup
       institution: Couple Model Intercomparison Project (CMIP), World Climate Research Program (WCRP) 
       year: 2023 - 2025
