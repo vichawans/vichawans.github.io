@@ -47,7 +47,7 @@
 - title: Experience
   type: time_table
   contents:
-   - title: PDRA
+    - title: PDRA
       institution: Centre for Atmospheric Science, University of Cambridge, Cambridge, UK
       year: 2025 - Now
       description:
